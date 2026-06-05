@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gerald Msampha
 
 <p align="center">
-  <strong>🌾 Agricultural Economics Graduate | 🤖 AI & ML Engineer | 💻 Full-Stack Developer</strong><br/>
+  <strong> Agricultural Economics Graduate | 🤖 AI & ML Engineer | 💻 Full-Stack Developer</strong><br/>
   📍 Lilongwe, Malawi | 💼 Open to full-time opportunities | 🔗 <a href="https://github.com/Grzzlyartist">github.com/Grzzlyartist</a>
 </p>
 
@@ -64,23 +64,8 @@ I'm an **Agricultural Economics graduate** from **Lilongwe University of Agricul
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grzzlyartist&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&cache_seconds=1800" alt="GitHub Stats" width="48%" onerror="this.style.display='none'" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grzzlyartist&theme=merko&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&cache_seconds=1800" alt="GitHub Streak" width="48%" onerror="this.style.display='none'" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grzzlyartist&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&cache_seconds=1800" alt="Top Languages" width="45%" onerror="this.style.display='none'" />
-</p>
-
-> **Note:** GitHub stats may take a few seconds to load. If they don't appear, try refreshing the page or check back later — this is due to Vercel's rate limiting, not an error with the profile.
 
 ---
 
@@ -99,6 +84,19 @@ I'm an **Agricultural Economics graduate** from **Lilongwe University of Agricul
 - 🎓 **Aspire Leaders Program** — Aspire Institute (2025)
 - 🚀 **DreamBuilder Entrepreneurship Program** — Thunderbird School of Global Management (2023)
 - 🌱 **Bayer Safe Use Ambassador** — Bayer Malawi (2024)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grzzlyartist&theme=merko" width="90%" onerror="this.style.display='none'" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Grzzlyartist&theme=merko" width="45%" onerror="this.style.display='none'" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grzzlyartist&theme=merko" width="45%" onerror="this.style.display='none'" />
+</p>
 
 ---
 
