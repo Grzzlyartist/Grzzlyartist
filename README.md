@@ -1,13 +1,8 @@
 # 👋 Hi, I'm Gerald Msampha
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=45&lines=🌾+Agricultural+Economics+Graduate;🤖+AI+%26+ML+Engineer;💻+Full-Stack+Developer;🚀+Open+to+full-time+opportunities" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  📍 Lilongwe, Malawi &nbsp;|&nbsp;
-  💼 Open to full-time opportunities &nbsp;|&nbsp;
-  🔗 <a href="https://github.com/Grzzlyartist">github.com/Grzzlyartist</a>
+  <strong>🌾 Agricultural Economics Graduate | 🤖 AI & ML Engineer | 💻 Full-Stack Developer</strong><br/>
+  📍 Lilongwe, Malawi | 💼 Open to full-time opportunities | 🔗 <a href="https://github.com/Grzzlyartist">github.com/Grzzlyartist</a>
 </p>
 
 ---
@@ -56,7 +51,10 @@ I'm an **Agricultural Economics graduate** from **Lilongwe University of Agricul
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -66,7 +64,7 @@ I'm an **Agricultural Economics graduate** from **Lilongwe University of Agricul
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
@@ -74,13 +72,15 @@ I'm an **Agricultural Economics graduate** from **Lilongwe University of Agricul
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grzzlyartist&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grzzlyartist&theme=merko&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Grzzlyartist&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&icon_color=2E8B57&cache_seconds=1800" alt="GitHub Stats" width="48%" onerror="this.style.display='none'" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grzzlyartist&theme=merko&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakNum=FFFFFF&sideNums=2E8B57&cache_seconds=1800" alt="GitHub Streak" width="48%" onerror="this.style.display='none'" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grzzlyartist&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grzzlyartist&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=2E8B57&cache_seconds=1800" alt="Top Languages" width="45%" onerror="this.style.display='none'" />
 </p>
+
+> **Note:** GitHub stats may take a few seconds to load. If they don't appear, try refreshing the page or check back later — this is due to Vercel's rate limiting, not an error with the profile.
 
 ---
 
@@ -142,12 +142,8 @@ I'm an **Agricultural Economics graduate** from **Lilongwe University of Agricul
   <img src="https://komarev.com/ghpvc/?username=Grzzlyartist&label=Profile%20Views&color=2E8B57&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20tech%20solutions%20that%20grow%20with%20Africa's%20farmers&author=Gerald%20Msampha" alt="Quote" />
-</p>
-
 <hr />
 
 <p align="center">
-  <i>⚡ "Building tech solutions that grow with Africa's farmers" ⚡</i>
+  <strong>⚡ "Building tech solutions that grow with Africa's farmers" ⚡</strong>
 </p>
